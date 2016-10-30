@@ -6,7 +6,7 @@ A Lethal-League Clone created in Unity3D by Terry Nguyen & Kuong-Iy Seng
 
 This game was created for a unit (Video Games Development) in our university (University of Western Sydney).
 
-It took us around 7-8 weeks for us to create the game. It came first place for our unit and we're proud of what we achieved for a short
+It took us around 8-10 weeks for us to create the game. It came first place for our unit and we're proud of what we achieved for a short
 amount of time and the very first time for us developing a game.
 
 
