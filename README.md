@@ -22,11 +22,12 @@ SFX from Gundam Repositories
 SFX from Street Fighter 2 Turbo
 Illustrations from various online websites
 Various scripts online
+Background Illustrations from various sources
 
 
 Original Assets:
 Player sprites (Unit-01 from Evangelion) was done by us
-Background sprites done by us
+Background items done by Us (train cart, Snow platform)
 Scripting was 90% done by us
 
 
